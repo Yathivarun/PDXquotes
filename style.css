@@ -1,0 +1,48 @@
+html{
+    background-color: rgb(23, 25, 25);
+    color: white;
+    font-size: x-large;
+}
+header{
+    text-align: center;
+    background-color: #333;
+    padding: 50px;
+    margin: 0px;
+}
+
+.navs{
+    color: aliceblue;
+    font-size: 20px;
+}
+
+#name{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    color: yellow;
+    width: 300px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+img{
+    width: 750px;
+}
+
+.poster{
+    background-color: #121212;
+    width: 620px;
+    padding: 20px;
+}
+
+footer{
+    text-align: center;
+    background-color: #333;
+    padding: 20px 10px 20px 20px;
+    font-size: medium;
+}
+
+.quote{
+    font-weight: bold;
+    font-style: oblique;
+}
